@@ -1,4 +1,4 @@
-setwd("C:/Users/tungt/Dropbox/Machine Learning Summer 2019 - Tung Thai/Homework/Homework 4")
+setwd("...")
 library(readr)
 library(nnet)
 iris_train <- read_csv("iris_train.csv")
